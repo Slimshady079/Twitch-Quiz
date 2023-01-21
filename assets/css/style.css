@@ -1,0 +1,50 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+nav button {
+    background: none;
+    color: purple;
+    border: none;
+}
+
+.start button {
+    background: purple;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+button {
+    background: purple;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.seconds {
+    display: none;
+}
+
+main {
+    margin: 10vh;
+    text-align: center;
+}
+
+.score {
+    display: none;
+}
+ul {
+    list-style: none;
+}
+
+.q-container {
+    display: none;
+}
+
+.finished {
+    visibility: hidden;
+}
