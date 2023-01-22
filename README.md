@@ -1,9 +1,31 @@
-# twitchEmoteQuiz
-## Description
-Is a quiz that you take to determine your understanding of twitch.tv and their emotes
+# Twitch Quiz
+![MIT](https://img.shields.io/badge/License-MIT-blue)
 
-## Screenshot 
+#### Table of Content:
+#### [Description](#description)
+#### [Installation](#installation)
+#### [Usage](#usage)
+#### [Deployment](#deployment)
+#### [Tests](#tests)
+#### [Questions](#questions)
 
-![image](https://user-images.githubusercontent.com/115417230/199854258-89e1ec0f-90d5-4ff1-b1fe-de56d94669bd.png)
+## Description:
+A fun quiz with the theme of Twitch.tv
 
-##
+## Installation:
+N/A
+
+## Usage:
+See how much you know about Twitch.tv !!
+
+## Deployment:
+
+
+## Tests:
+N/A
+
+## Questions:
+[github](https://github.com/https://github.com/Slimshady079/Twitch-Quiz)
+[email](mailto:maximiliangibes@gmail.com)
+
+
