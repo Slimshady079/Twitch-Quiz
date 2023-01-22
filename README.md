@@ -21,8 +21,9 @@ See how much you know about Twitch.tv !!
 ## Deployment:
 
 
-## Tests:
-N/A
+## Screenshot:
+![slimshady079 github io_Twitch-Quiz_](https://user-images.githubusercontent.com/115417230/213923526-6daa62c7-013b-48cb-b849-a833fe8eaf37.png)
+
 
 ## Questions:
 [github](https://github.com/https://github.com/Slimshady079/Twitch-Quiz)
